@@ -4,7 +4,7 @@ pipeline {
   environment {
     IMAGE_NAME = "narencloudev/static-site"
     CONTAINER_NAME = "static-html"
-    HOST_PORT = "9090"
+    HOST_PORT = "9091"
   }
 
   stages {
